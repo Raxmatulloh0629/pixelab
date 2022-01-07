@@ -1,0 +1,20 @@
+footer {
+    width: 100%;
+    height: 200px;
+    padding: 30px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    p {
+        font-weight: normal;
+        font-size: 16px;
+        color: #1E0E62;
+    }
+
+    nav {
+        display: flex;
+        align-items: center;
+        gap: 39px;
+    }
+}
